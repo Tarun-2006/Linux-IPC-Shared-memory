@@ -54,8 +54,8 @@ int main()
 ```
 
 ## OUTPUT
+![image](https://github.com/Tarun-2006/Linux-IPC-Shared-memory/assets/145584190/c44d604d-18aa-4823-af34-2e35a702cfa3)
 
-![image](https://github.com/Shyamsujin/Linux-IPC-Shared-memory/assets/144870449/2dd063bc-0939-40e7-ba71-4229bb0adb78)
 
 # RESULT:
 The program is executed successfully.
